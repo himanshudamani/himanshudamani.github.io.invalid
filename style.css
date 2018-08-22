@@ -1,0 +1,44 @@
+.white-text{
+	color:white;
+
+
+
+}
+
+.gold-text{
+	color:gold;
+    text-align: center;
+
+}
+
+.stroke{
+	 text-shadow:
+   -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.kit-stroke{
+
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: black;
+}
+
+.bold{
+	font-weight:bold;
+
+}
+
+.huge-text{
+	font-size:7em;
+}
+
+.large-text{
+	font-size:3em;
+}
+
+.gh-link{
+    margin-top:-2%;
+    margin-bottom:5%;
+}
