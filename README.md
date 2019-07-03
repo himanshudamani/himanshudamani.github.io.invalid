@@ -1,5 +1,5 @@
-# Himanshu Damani's Website
+# Personal Website
 
-Will be released asap.
+Simple HTML, CSS and some Js Webpage.
 
-till then whatever want to do man, But trouble Your Mother man.
+Lil bit Responsive.
